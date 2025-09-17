@@ -18,4 +18,5 @@ while True:
         print("==========================\nGoodBye !, Now the Program will be Closed !")
         sys.exit()
     if False :
-        print("There is an ERROR while Looping or Playing in this Program, Please Contact us at:\n0702939070 or +212 702 939 070")
+
+        print("There is an ERROR while Looping or Playing in this Program, Please Contact us at:\n01234567890 or +XXX 012 345 678 90")
